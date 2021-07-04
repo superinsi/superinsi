@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @superinsi
+- 👋 Hi, I’m roshidi
 - 👀 I’m interested in ...android apps development
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ...mobile apps development
